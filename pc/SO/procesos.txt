@@ -1,0 +1,278 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1  22352 12872 ?        Ss   08:26   0:02 /sbin/init
+root           2  0.0  0.0      0     0 ?        S    08:26   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    08:26   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-rcu_g]
+root           5  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-rcu_p]
+root           6  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-slub_]
+root           7  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-netns]
+root           9  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/0:0H-events_highpri]
+root          12  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-mm_pe]
+root          14  0.0  0.0      0     0 ?        I    08:26   0:00 [rcu_tasks_kthread]
+root          15  0.0  0.0      0     0 ?        I    08:26   0:00 [rcu_tasks_rude_kthread]
+root          16  0.0  0.0      0     0 ?        I    08:26   0:00 [rcu_tasks_trace_kthread]
+root          17  0.0  0.0      0     0 ?        S    08:26   0:00 [ksoftirqd/0]
+root          18  0.0  0.0      0     0 ?        I    08:26   0:01 [rcu_preempt]
+root          19  0.0  0.0      0     0 ?        S    08:26   0:00 [rcub/0]
+root          20  0.0  0.0      0     0 ?        S    08:26   0:00 [migration/0]
+root          21  0.0  0.0      0     0 ?        S    08:26   0:00 [idle_inject/0]
+root          22  0.0  0.0      0     0 ?        S    08:26   0:00 [cpuhp/0]
+root          23  0.0  0.0      0     0 ?        S    08:26   0:00 [cpuhp/1]
+root          24  0.0  0.0      0     0 ?        S    08:26   0:00 [idle_inject/1]
+root          25  0.0  0.0      0     0 ?        S    08:26   0:00 [migration/1]
+root          26  0.0  0.0      0     0 ?        S    08:26   0:00 [ksoftirqd/1]
+root          28  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/1:0H-events_highpri]
+root          29  0.0  0.0      0     0 ?        S    08:26   0:00 [cpuhp/2]
+root          30  0.0  0.0      0     0 ?        S    08:26   0:00 [idle_inject/2]
+root          31  0.0  0.0      0     0 ?        S    08:26   0:00 [migration/2]
+root          32  0.0  0.0      0     0 ?        S    08:26   0:01 [ksoftirqd/2]
+root          34  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/2:0H-events_highpri]
+root          35  0.0  0.0      0     0 ?        S    08:26   0:00 [cpuhp/3]
+root          36  0.0  0.0      0     0 ?        S    08:26   0:00 [idle_inject/3]
+root          37  0.0  0.0      0     0 ?        S    08:26   0:00 [migration/3]
+root          38  0.0  0.0      0     0 ?        S    08:26   0:00 [ksoftirqd/3]
+root          40  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/3:0H-acpi_thermal_pm]
+root          41  0.0  0.0      0     0 ?        S    08:26   0:00 [cpuhp/4]
+root          42  0.0  0.0      0     0 ?        S    08:26   0:00 [idle_inject/4]
+root          43  0.0  0.0      0     0 ?        S    08:26   0:00 [migration/4]
+root          44  0.0  0.0      0     0 ?        S    08:26   0:00 [ksoftirqd/4]
+root          46  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/4:0H-events_highpri]
+root          47  0.0  0.0      0     0 ?        S    08:26   0:00 [cpuhp/5]
+root          48  0.0  0.0      0     0 ?        S    08:26   0:00 [idle_inject/5]
+root          49  0.0  0.0      0     0 ?        S    08:26   0:00 [migration/5]
+root          50  0.0  0.0      0     0 ?        S    08:26   0:00 [ksoftirqd/5]
+root          52  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/5:0H-events_highpri]
+root          53  0.0  0.0      0     0 ?        S    08:26   0:00 [cpuhp/6]
+root          54  0.0  0.0      0     0 ?        S    08:26   0:00 [idle_inject/6]
+root          55  0.0  0.0      0     0 ?        S    08:26   0:00 [migration/6]
+root          56  0.0  0.0      0     0 ?        S    08:26   0:00 [ksoftirqd/6]
+root          58  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/6:0H-events_highpri]
+root          59  0.0  0.0      0     0 ?        S    08:26   0:00 [cpuhp/7]
+root          60  0.0  0.0      0     0 ?        S    08:26   0:00 [idle_inject/7]
+root          61  0.0  0.0      0     0 ?        S    08:26   0:00 [migration/7]
+root          62  0.0  0.0      0     0 ?        S    08:26   0:00 [ksoftirqd/7]
+root          64  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/7:0H-events_highpri]
+root          65  0.0  0.0      0     0 ?        S    08:26   0:00 [kdevtmpfs]
+root          66  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-inet_]
+root          67  0.0  0.0      0     0 ?        S    08:26   0:00 [khungtaskd]
+root          68  0.0  0.0      0     0 ?        S    08:26   0:00 [oom_reaper]
+root          70  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-write]
+root          71  0.0  0.0      0     0 ?        S    08:26   0:00 [kcompactd0]
+root          72  0.0  0.0      0     0 ?        SN   08:26   0:00 [ksmd]
+root          74  0.0  0.0      0     0 ?        SN   08:26   0:00 [khugepaged]
+root          75  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-kinte]
+root          76  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-kbloc]
+root          77  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-blkcg]
+root          78  0.0  0.0      0     0 ?        S    08:26   0:00 [irq/9-acpi]
+root          80  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-tpm_d]
+root          81  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-ata_s]
+root          82  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-edac-]
+root          83  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-devfr]
+root          84  0.0  0.0      0     0 ?        S    08:26   0:00 [watchdogd]
+root          85  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/1:1H-kblockd]
+root          86  0.0  0.0      0     0 ?        S    08:26   0:00 [kswapd0]
+root          87  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-kthro]
+root          89  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-acpi_]
+root          90  0.0  0.0      0     0 ?        S    08:26   0:00 [hwrng]
+root          92  0.0  0.0      0     0 ?        S    08:26   0:00 [scsi_eh_0]
+root          93  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-scsi_]
+root          94  0.0  0.0      0     0 ?        S    08:26   0:00 [scsi_eh_1]
+root          95  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-scsi_]
+root          97  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-mld]
+root          99  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-ipv6_]
+root         108  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-kstrp]
+root         111  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-zswap]
+root         113  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/3:1H-kblockd]
+root         130  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/5:1H-kblockd]
+root         131  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/2:1H-kblockd]
+root         144  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/7:1H-kblockd]
+root         165  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/4:1H-kblockd]
+root         166  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/0:1H-kblockd]
+root         168  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/6:1H-acpi_thermal_pm]
+root         171  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-nvme-]
+root         172  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-nvme-]
+root         173  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-nvme-]
+root         174  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-nvme-]
+root         178  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-ttm]
+root         179  0.0  0.0      0     0 ?        S    08:26   0:00 [card1-crtc0]
+root         180  0.0  0.0      0     0 ?        S    08:26   0:00 [card1-crtc1]
+root         181  0.0  0.0      0     0 ?        S    08:26   0:00 [card1-crtc2]
+root         182  0.0  0.0      0     0 ?        I    08:26   0:00 [kworker/1:2-events]
+root         196  0.0  0.0      0     0 ?        S    08:26   0:00 [jbd2/nvme0n1p5-8]
+root         197  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-ext4-]
+root         237  0.0  0.1  26072 12544 ?        Ss   08:26   0:00 /usr/lib/systemd/systemd-journald
+root         249  0.0  0.0  17168  6656 ?        Ss   08:26   0:00 /usr/lib/systemd/systemd-userdbd
+root         271  0.0  0.0      0     0 ?        S    08:26   0:00 [psimon]
+root         279  0.0  0.1  36388 11008 ?        Ss   08:26   0:01 /usr/lib/systemd/systemd-udevd
+root         282  0.0  0.0      0     0 ?        S    08:26   0:00 [psimon]
+root         337  0.0  0.0      0     0 ?        S    08:26   0:00 [irq/144-mei_me]
+root         380  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-cfg80]
+root         388  0.4  0.0      0     0 ?        S    08:26   1:03 [irq/145-ELAN0703:01]
+root         395  0.0  0.0      0     0 ?        I<   08:26   0:00 [kworker/R-crypt]
+dbus         424  0.0  0.0  10680  4512 ?        Ss   08:26   0:00 /usr/bin/dbus-broker-launch --scope system --audit
+dbus         437  0.0  0.0   5452  3384 ?        S    08:26   0:01 dbus-broker --log 4 --controller 9 --machine-id 393a05d634874a3bba6afecb619bb45c --max-bytes 536870912 --max-fds 4096 --max-matches 131072 --audit
+root         443  0.0  0.2 417204 23156 ?        Ssl  08:26   0:10 /usr/bin/NetworkManager --no-daemon
+avahi        446  0.0  0.0   8744  4480 ?        Ss   08:26   0:00 avahi-daemon: running [dannykentala-laptop.local]
+root         456  0.0  0.1  17660  8392 ?        Ss   08:26   0:00 /usr/lib/systemd/systemd-logind
+root         460  0.1  0.0      0     0 ?        S    08:26   0:16 [irq/148-rtw88_pci]
+avahi        462  0.0  0.0   8744  1412 ?        S    08:26   0:00 avahi-daemon: chroot helper
+root         504  0.0  0.1  29104 10824 ?        Ss   08:26   0:00 /usr/bin/cupsd -l
+root         509  0.0  0.2 157080 20736 ?        Ssl  08:26   0:00 /usr/bin/sddm
+ntp          510  0.0  0.0  77528  6664 ?        Ssl  08:26   0:01 /usr/bin/ntpd -g -u ntp:ntp
+root         531  1.2  0.8 857392 68496 tty2     Ssl+ 08:26   2:35 /usr/lib/Xorg -nolisten tcp -background none -seat seat0 vt2 -auth /run/sddm/xauth_TiVNxj -noreset -displayfd 16
+root         537  0.0  0.0  12196  5888 ?        Ss   08:26   0:00 /usr/lib/bluetooth/bluetoothd
+root         545  0.0  0.1  18756 10752 ?        Ss   08:26   0:00 /usr/bin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root         570  0.0  0.0      0     0 ?        S    08:27   0:00 [psimon]
+root         605  0.0  0.2  79208 20084 ?        S    08:27   0:00 /usr/lib/sddm/sddm-helper --socket /tmp/sddm-auth-9f6e66c4-5990-4926-94fe-cdd3da399b29 --id 1 --start i3 --user dannykentala
+dannyke+     617  0.0  0.1  20880 12020 ?        Ss   08:27   0:00 /usr/lib/systemd/systemd --user
+dannyke+     622  0.0  0.0  23280  3444 ?        S    08:27   0:00 (sd-pam)
+dannyke+     633  0.0  0.1 315252  8960 ?        SLsl 08:27   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+dannyke+     639  0.0  0.0   8832  3840 ?        Ss   08:27   0:00 /usr/bin/dbus-broker-launch --scope user
+dannyke+     640  0.0  0.0   4556  2428 ?        S    08:27   0:00 dbus-broker --log 4 --controller 10 --machine-id 393a05d634874a3bba6afecb619bb45c --max-bytes 100000000000000 --max-fds 25000000000000 --max-matches 5000000000
+dannyke+     642  0.0  0.5 152160 46628 ?        Sl   08:27   0:04 i3
+dannyke+     655  0.0  0.7 954364 61980 ?        Ssl  08:27   0:02 nm-applet
+dannyke+     656  0.0  0.1  92928 14020 ?        Ssl  08:27   0:00 i3bar --bar_id=bar-0 --socket=/run/user/1000/i3/ipc-socket.642
+dannyke+     661  0.0  0.0 311836  6144 ?        Sl   08:27   0:00 /usr/lib/geoclue-2.0/demos/agent
+dannyke+     663  0.0  0.5 409644 46180 ?        Sl   08:27   0:00 pamac-tray
+dannyke+     664  0.0  0.4  63272 34516 ?        S    08:27   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+dannyke+     667  0.0  0.7 707296 57304 ?        Sl   08:27   0:00 blueberry-tray
+dannyke+     668  0.0  0.4 628392 38960 ?        Sl   08:27   0:01 xfce4-power-manager
+dannyke+     674  0.0  1.3 1319640 105540 ?      Sl   08:27   0:03 /usr/bin/python /usr/bin/variety --profile /home/dannykentala/.config/variety/
+dannyke+     678  0.0  0.3 790480 30084 ?        S<sl 08:27   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+dannyke+     688  0.0  0.1 319240  8704 ?        Ssl  08:27   0:00 /usr/lib/gvfsd
+dannyke+     697  0.0  0.0 458436  6276 ?        Sl   08:27   0:00 /usr/lib/gvfsd-fuse /run/user/1000/gvfs -f
+rtkit        706  0.0  0.0  23060  3456 ?        SNsl 08:27   0:00 /usr/lib/rtkit-daemon
+polkitd      714  0.0  0.1 384296 10108 ?        Ssl  08:27   0:00 /usr/lib/polkit-1/polkitd --no-debug
+dannyke+     727  0.0  0.0 382024  7580 ?        Ssl  08:27   0:00 /usr/lib/at-spi-bus-launcher
+dannyke+     734  0.0  0.0   8832  3712 ?        S    08:27   0:00 /usr/bin/dbus-broker-launch --config-file=/usr/share/defaults/at-spi2/accessibility.conf --scope user
+dannyke+     737  0.0  0.0   4000  2304 ?        S    08:27   0:00 dbus-broker --log 4 --controller 9 --machine-id 393a05d634874a3bba6afecb619bb45c --max-bytes 100000000000000 --max-fds 6400000 --max-matches 5000000000
+dannyke+     746  0.0  0.1 632992 14552 ?        Ssl  08:27   0:00 /usr/lib/xdg-desktop-portal
+dannyke+     760  0.0  0.0 535516  6656 ?        Ssl  08:27   0:00 /usr/lib/xdg-document-portal
+dannyke+     765  0.0  0.0 308064  5120 ?        Ssl  08:27   0:00 /usr/lib/xdg-permission-store
+dannyke+     766  0.0  0.2 448780 20472 ?        Ssl  08:27   0:00 /usr/lib/xfce4/notifyd/xfce4-notifyd
+root         775  0.0  0.0   2496  1664 ?        Ss   08:27   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+dannyke+     783  0.0  0.2 450888 21844 ?        Ssl  08:27   0:00 /usr/lib/xdg-desktop-portal-gtk
+dannyke+     798  0.0  0.0 235056  7680 ?        Ssl  08:27   0:01 /usr/lib/at-spi2-registryd --use-gnome-session
+root         800  0.0  0.1 317984  9600 ?        Ssl  08:27   0:11 /usr/lib/upowerd
+dannyke+     819  0.0  0.1 107840  8848 ?        S<sl 08:27   0:00 /usr/bin/pipewire
+dannyke+     836  0.0  0.0  10048  3328 ?        S    08:27   0:00 /bin/sh /usr/lib/blueberry/safechild /usr/sbin/rfkill event
+dannyke+     840  0.0  0.0   8148  1792 ?        S    08:27   0:00 /usr/sbin/rfkill event
+dannyke+     875  0.0  0.1 316712  8252 ?        Sl   08:27   0:00 /usr/lib/pulse/gsettings-helper
+root         882  0.0  0.0      0     0 ?        S<   08:27   0:00 [krfcommd]
+dannyke+    1220  0.0  0.0 229080  5376 ?        Ssl  08:27   0:00 /usr/lib/dconf-service
+dannyke+    1789  0.0  0.2 435020 16172 ?        Ssl  08:27   0:00 /usr/lib/gvfs-udisks2-volume-monitor
+root        1828  0.0  0.1 468976 13036 ?        Ssl  08:27   0:00 /usr/lib/udisks2/udisksd
+dannyke+    1879  0.0  0.1 389472  9472 ?        Ssl  08:27   0:00 /usr/lib/gvfs-afc-volume-monitor
+dannyke+    1915  0.0  0.1 310572  8284 ?        Ssl  08:27   0:00 /usr/lib/gvfs-gphoto2-volume-monitor
+dannyke+    1933  0.0  0.0 308672  7684 ?        Ssl  08:27   0:00 /usr/lib/gvfs-mtp-volume-monitor
+dannyke+    1948  0.0  0.1 540828 11624 ?        Sl   08:27   0:00 /usr/lib/gvfsd-trash --spawner :1.7 /org/gtk/gvfs/exec_spaw/0
+dannyke+    2179  0.0  0.1 467456 11792 ?        Sl   08:27   0:00 /usr/lib/gvfsd-network --spawner :1.7 /org/gtk/gvfs/exec_spaw/1
+dannyke+    2885  0.0  0.1 395844 11756 ?        Sl   08:27   0:00 /usr/lib/gvfsd-dnssd --spawner :1.7 /org/gtk/gvfs/exec_spaw/3
+dannyke+    4911  0.4  0.8 510880 67500 ?        Ssl  08:36   0:52 xfce4-terminal
+dannyke+    4922  0.0  0.1  13856  9704 pts/0    Ss   08:36   0:02 zsh
+dannyke+    8311  0.0  0.0  10592  5656 ?        S    09:01   0:00 /usr/bin/zsh
+dannyke+    8316 10.1  7.8 13081052 611952 ?     Sl   09:01  18:00 /usr/lib/firefox/firefox
+dannyke+    8406  0.0  0.4 252644 32048 ?        Sl   09:01   0:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20240402224902 -prefsLen 31929 -prefMapSize 237705 -appDir /usr/lib/firefox/browser {46e9ccf4-ee2e-4548-b289-0e286c256712} 8316 true socket
+dannyke+    8426  0.1  1.8 2540936 142484 ?      Sl   09:01   0:13 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 31994 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {aaa3aae0-0bd4-4ccc-ba35-432c60318598} 8316 true tab
+dannyke+    8481  0.4  5.1 2806276 400604 ?      Sl   09:01   0:44 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 37428 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {2415fd33-ce8a-40c8-89d1-474852204c03} 8316 true tab
+dannyke+    8542  0.0  0.5 509480 41320 ?        Sl   09:01   0:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20240402224902 -sandboxingKind 0 -prefsLen 37428 -prefMapSize 237705 -appDir /usr/lib/firefox/browser {27257aee-acd9-4104-b536-d22bf30059cb} 8316 true utility
+dannyke+    8949  0.6  7.1 3139216 561608 ?      Sl   09:02   1:09 /usr/lib/firefox/firefox -contentproc -childID 12 -isForBrowser -prefsLen 31491 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {1809a1da-37eb-41c8-ab70-699c24ad0507} 8316 true tab
+dannyke+    9271  0.0  1.0 2466596 83620 ?       Sl   09:03   0:00 /usr/lib/firefox/firefox -contentproc -childID 14 -isForBrowser -prefsLen 31491 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {f8a5be90-28c8-4e04-a6ee-ff11cb1ffb5e} 8316 true tab
+dannyke+    9409  0.0  0.4 508196 36712 ?        Sl   09:04   0:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20240402224902 -prefsLen 37695 -prefMapSize 237705 -appDir /usr/lib/firefox/browser {751ec8f1-17ad-4c89-833c-fa78cb76986f} 8316 true rdd
+dannyke+   10966  0.0  0.1  15612  9740 pts/0    Tl   09:24   0:00 nvim script.zsh
+dannyke+   10968  0.9  0.5  48244 43076 ?        Ssl  09:24   1:26 nvim --embed script.zsh
+dannyke+   11045  0.0  0.1  13780  9424 pts/1    Ss   09:25   0:02 zsh
+dannyke+   11435  0.2  2.5 1177946456 201312 ?   Ssl  09:26   0:21 /usr/lib/electron28/electron /usr/lib/code/code.js documentation.md
+dannyke+   11447  0.0  0.6 34100336 48212 ?      S    09:26   0:00 /usr/lib/electron28/electron --type=zygote --no-zygote-sandbox
+dannyke+   11448  0.0  0.6 34100328 48280 ?      S    09:26   0:00 /usr/lib/electron28/electron --type=zygote
+dannyke+   11450  0.0  0.1 34100356 12856 ?      S    09:26   0:00 /usr/lib/electron28/electron --type=zygote
+dannyke+   11468  0.0  0.0 33567400 3200 ?       Sl   09:26   0:00 /usr/lib/electron28/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/dannykentala/.config/Code - OSS/Crashpad --annotation=_companyName=Microsoft --annotation=_productName=Code - OSS --annotation=_version=1.88.0 --annotation=lsb-release=Unknown --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=28.2.10 --initial-client-fd=44 --shared-client-connection
+dannyke+   11481  0.3  1.4 34469064 110972 ?     Sl   09:26   0:33 /usr/lib/electron28/electron --type=gpu-process --crashpad-handler-pid=11468 --enable-crash-reporter=2fe099cc-8ab0-4a6a-9544-d026ae81cba2,no_channel --user-data-dir=/home/dannykentala/.config/Code - OSS --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=0,i,3267802015534587997,9375890142560747071,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+dannyke+   11485  0.0  1.4 33912952 114992 ?     Sl   09:26   0:01 /usr/lib/electron28/electron --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=11468 --enable-crash-reporter=2fe099cc-8ab0-4a6a-9544-d026ae81cba2,no_channel --user-data-dir=/home/dannykentala/.config/Code - OSS --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3267802015534587997,9375890142560747071,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+dannyke+   11518  1.1  2.6 1186461816 208816 ?   Sl   09:26   1:48 /usr/lib/electron28/electron --type=renderer --crashpad-handler-pid=11468 --enable-crash-reporter=2fe099cc-8ab0-4a6a-9544-d026ae81cba2,no_channel --user-data-dir=/home/dannykentala/.config/Code - OSS --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/usr/lib/code --enable-sandbox --enable-blink-features=HighlightAPI --first-renderer-process --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1712755608689100 --launch-time-ticks=3590281604 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3267802015534587997,9375890142560747071,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:ccac9725-501e-44db-8f48-ad9d5d653e63
+dannyke+   11539  0.0  1.2 1177761732 98708 ?    Sl   09:26   0:04 /usr/lib/electron28/electron --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=11468 --enable-crash-reporter=2fe099cc-8ab0-4a6a-9544-d026ae81cba2,no_channel --user-data-dir=/home/dannykentala/.config/Code - OSS --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3267802015534587997,9375890142560747071,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+dannyke+   11540  0.0  1.1 1177762056 86660 ?    Sl   09:26   0:01 /usr/lib/electron28/electron --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=11468 --enable-crash-reporter=2fe099cc-8ab0-4a6a-9544-d026ae81cba2,no_channel --user-data-dir=/home/dannykentala/.config/Code - OSS --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3267802015534587997,9375890142560747071,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+dannyke+   11545  0.2  1.7 1177762116 134680 ?   Sl   09:26   0:21 /usr/lib/electron28/electron --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=11468 --enable-crash-reporter=2fe099cc-8ab0-4a6a-9544-d026ae81cba2,no_channel --user-data-dir=/home/dannykentala/.config/Code - OSS --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,3267802015534587997,9375890142560747071,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+dannyke+   11588  0.0  1.0 1177691876 78976 ?    Sl   09:26   0:02 /usr/lib/electron28/electron /usr/lib/code/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=11545
+root       15685  0.0  0.0      0     0 ?        I    10:17   0:00 [kworker/3:1-cgroup_destroy]
+dannyke+   15821  0.5  3.6 2806472 284504 ?      Sl   10:17   0:31 /usr/lib/firefox/firefox -contentproc -childID 39 -isForBrowser -prefsLen 31491 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {5507a25b-8ba8-4c1b-a66f-24ad18f90f4e} 8316 true tab
+dannyke+   15861  0.0  2.0 2580448 161656 ?      Sl   10:18   0:03 /usr/lib/firefox/firefox -contentproc -childID 40 -isForBrowser -prefsLen 31491 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {07392937-7621-458e-a116-1e14ba94b368} 8316 true tab
+dannyke+   15950  0.0  1.9 2551188 150088 ?      Sl   10:18   0:03 /usr/lib/firefox/firefox -contentproc -childID 42 -isForBrowser -prefsLen 31491 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {729e1f33-947e-4a95-b4d7-32ee5e6ed7e9} 8316 true tab
+dannyke+   16159  0.0  2.2 2579932 177168 ?      Sl   10:19   0:04 /usr/lib/firefox/firefox -contentproc -childID 46 -isForBrowser -prefsLen 31491 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {d6f1c3cc-5032-4208-b3ee-e2aa7d1df404} 8316 true tab
+dannyke+   16242  0.0  2.1 2585448 164872 ?      Sl   10:19   0:02 /usr/lib/firefox/firefox -contentproc -childID 48 -isForBrowser -prefsLen 31491 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {c7b095cb-1d09-4537-8254-02aab58feb35} 8316 true tab
+dannyke+   16809  0.0  2.4 2612116 190420 ?      Sl   10:22   0:05 /usr/lib/firefox/firefox -contentproc -childID 52 -isForBrowser -prefsLen 31491 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {62966b2b-355b-4a8f-a974-5890689b5ef2} 8316 true tab
+root       17299  0.0  0.0      0     0 ?        S    10:30   0:01 [kworker/u16:4+events_unbound]
+root       18523  0.0  0.0      0     0 ?        I    10:36   0:00 [kworker/5:2-rcu_gp]
+root       18527  0.0  0.0      0     0 ?        S    10:37   0:01 [kworker/u16:2+events_unbound]
+root       18720  0.0  0.0      0     0 ?        S    10:42   0:00 [kworker/u16:1+events_unbound]
+root       19201  0.0  0.0      0     0 ?        I    10:46   0:00 [kworker/1:0-inet_frag_wq]
+root       19516  0.0  0.0      0     0 ?        I    10:51   0:00 [kworker/0:2-rcu_gp]
+root       19517  0.0  0.0      0     0 ?        I    10:51   0:00 [kworker/4:2-events]
+root       19524  0.0  0.0      0     0 ?        I    10:51   0:02 [kworker/2:0-i915-unordered]
+dannyke+   20276  0.2  2.7 2677376 217748 ?      Sl   10:53   0:10 /usr/lib/firefox/firefox -contentproc -childID 75 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {92eb1547-b5b1-479e-a857-b9c27c8ed5dc} 8316 true tab
+root       21030  0.0  0.0      0     0 ?        S    10:57   0:00 [kworker/u16:0+events_unbound]
+dannyke+   21409  0.1  2.0 2585824 160420 ?      Sl   11:02   0:05 /usr/lib/firefox/firefox -contentproc -childID 76 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {d0a96783-1370-469a-acb5-86dff2b5dd53} 8316 true tab
+dannyke+   21467  0.2  1.8 2545144 145944 ?      Sl   11:02   0:07 /usr/lib/firefox/firefox -contentproc -childID 77 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {c2723a8a-7675-41c9-86f7-ae86ecf91e59} 8316 true tab
+root       21649  0.0  0.0      0     0 ?        S    11:05   0:00 [kworker/u16:3+events_unbound]
+root       21650  0.0  0.0      0     0 ?        I    11:05   0:01 [kworker/u16:5-events_unbound]
+root       21657  0.0  0.0      0     0 ?        S    11:05   0:01 [kworker/u16:6+events_unbound]
+dannyke+   21664  0.0  0.1  15612  9716 pts/0    Tl   11:05   0:00 nvim script.zsh
+dannyke+   21666  1.6  0.5  48376 42148 ?        Ssl  11:05   0:51 nvim --embed script.zsh
+root       21773  0.0  0.0      0     0 ?        I    11:06   0:00 [kworker/7:2-pm]
+root       21774  0.0  0.0      0     0 ?        I    11:06   0:00 [kworker/6:2-events]
+dannyke+   21818  0.0  1.4 2637328 116712 ?      Sl   11:06   0:00 /usr/lib/firefox/firefox -contentproc -childID 78 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {6ba90714-448a-4122-ada9-fd22395b9d8a} 8316 true tab
+dannyke+   21946  1.0  2.3 2617116 180416 ?      Sl   11:07   0:33 /usr/lib/firefox/firefox -contentproc -childID 80 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {d221faa3-8364-4949-8e4f-9f43f7046bc9} 8316 true tab
+root       22029  0.0  0.0      0     0 ?        S    11:08   0:00 [kworker/u16:7+events_unbound]
+dannyke+   22513  0.0  0.1  13604  8840 pts/3    Ss   11:16   0:00 zsh
+dannyke+   22751  0.0  0.1  15648  9828 pts/3    Sl+  11:16   0:00 nvim myBatchFile.bat
+dannyke+   22753  1.1  0.4  40596 35208 ?        Ssl  11:16   0:29 nvim --embed myBatchFile.bat
+dannyke+   23078  0.0  2.2 2583572 177856 ?      Sl   11:21   0:02 /usr/lib/firefox/firefox -contentproc -childID 85 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {753c4115-e264-4ae8-9766-795f041fe49f} 8316 true tab
+root       23119  0.0  0.0      0     0 ?        I<   11:23   0:00 [kworker/u17:0-rtw_tx_wq]
+root       23391  0.0  0.0      0     0 ?        I    11:26   0:00 [kworker/7:1-events]
+root       23511  0.0  0.0      0     0 ?        S    11:34   0:00 [kworker/u16:8+events_unbound]
+root       23658  0.0  0.0      0     0 ?        I    11:36   0:00 [kworker/0:1-inet_frag_wq]
+root       23700  0.0  0.0      0     0 ?        I    11:37   0:00 [kworker/u16:12-events_unbound]
+root       23701  0.0  0.0      0     0 ?        I    11:37   0:00 [kworker/u16:13-events_unbound]
+root       23702  0.0  0.0      0     0 ?        I    11:37   0:00 [kworker/u16:14-events_unbound]
+dannyke+   23948  0.3  1.9 2551076 154704 ?      Sl   11:38   0:03 /usr/lib/firefox/firefox -contentproc -childID 87 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {9192b148-b389-4c6c-b0b4-fca83672bf51} 8316 true tab
+dannyke+   24024  0.6  2.2 2620056 174508 ?      Sl   11:39   0:06 /usr/lib/firefox/firefox -contentproc -childID 88 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {d4ca6ce0-a419-471b-85b0-7291922f333e} 8316 true tab
+dannyke+   24065  0.0  1.6 2528716 128256 ?      Sl   11:39   0:00 /usr/lib/firefox/firefox -contentproc -childID 89 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {3dcf0df5-b9fc-48dc-a49b-7d94469e232e} 8316 true tab
+root       24291  0.0  0.0      0     0 ?        I    11:41   0:00 [kworker/5:0-events]
+dannyke+   24432  0.0  1.4 2506248 110404 ?      Sl   11:42   0:00 /usr/lib/firefox/firefox -contentproc -childID 92 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {cf1c0343-f96b-4d81-9db0-1bf73f40691e} 8316 true tab
+root       24841  0.0  0.0      0     0 ?        I    11:44   0:00 [kworker/3:2-events]
+dannyke+   24889  0.0  1.5 2512008 121692 ?      Sl   11:44   0:00 /usr/lib/firefox/firefox -contentproc -childID 93 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {9bd86852-1b1e-4248-8a0a-c0e8b9624fff} 8316 true tab
+root       24922  0.0  0.0      0     0 ?        I    11:45   0:00 [kworker/2:2-cgroup_destroy]
+dannyke+   24967  3.7  3.3 2785792 263032 ?      Sl   11:45   0:29 /usr/lib/firefox/firefox -contentproc -childID 95 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {7bc2c65e-dca3-45d3-a2c1-267ba2de5b07} 8316 true tab
+dannyke+   24969  0.3  2.3 2586872 180596 ?      Sl   11:45   0:02 /usr/lib/firefox/firefox -contentproc -childID 96 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {a2e2cc92-8505-47c2-8808-d872f7d71089} 8316 true tab
+root       25271  0.0  0.0      0     0 ?        I    11:48   0:00 [kworker/u16:11-events_unbound]
+root       25528  0.0  0.0      0     0 ?        I    11:50   0:00 [kworker/4:1-inet_frag_wq]
+root       25561  0.0  0.0      0     0 ?        I    11:51   0:00 [kworker/6:1-events]
+dannyke+   25576  0.0  0.1  13464  9008 pts/2    Ss+  11:52   0:00 zsh
+root       25790  0.0  0.0      0     0 ?        I    11:52   0:00 [kworker/1:1-rcu_gp]
+dannyke+   25963  0.5  2.1 2625660 170784 ?      Sl   11:52   0:01 /usr/lib/firefox/firefox -contentproc -childID 100 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {b5ac439b-6190-4dc7-ae7e-d1993baa5405} 8316 true tab
+root       25981  0.0  0.0      0     0 ?        I<   11:52   0:00 [kworker/u17:1-rtw_tx_wq]
+root       25984  0.0  0.0      0     0 ?        I    11:53   0:00 [kworker/3:0-events]
+dannyke+   26013  0.5  1.9 2549428 151496 ?      Sl   11:53   0:01 /usr/lib/firefox/firefox -contentproc -childID 101 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {bfa94d79-eba6-4e5f-a126-2201117eac06} 8316 true tab
+dannyke+   26046  0.5  2.2 2577880 179000 ?      Sl   11:53   0:01 /usr/lib/firefox/firefox -contentproc -childID 102 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {908546b6-4f7c-43af-972b-9ef9cd088bca} 8316 true tab
+root       26070  0.0  0.0      0     0 ?        I    11:53   0:00 [kworker/2:1-events]
+root       26071  0.0  0.0      0     0 ?        I    11:53   0:00 [kworker/0:0]
+root       26116  0.0  0.0      0     0 ?        I    11:53   0:00 [kworker/5:1-events]
+dannyke+   26151  0.8  2.3 2578788 184776 ?      Sl   11:53   0:02 /usr/lib/firefox/firefox -contentproc -childID 103 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {a0920620-7ae7-4ce3-a374-0ac67ed9810b} 8316 true tab
+dannyke+   26197  1.0  2.3 2578080 184216 ?      Sl   11:54   0:02 /usr/lib/firefox/firefox -contentproc -childID 104 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {2610feb5-1340-4802-885f-2f1e2c16d68f} 8316 true tab
+dannyke+   26250  0.0  0.7 2440848 58032 ?       Sl   11:54   0:00 /usr/lib/firefox/firefox -contentproc -childID 105 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {f90e78bb-4022-46b4-b07e-a772bef3a994} 8316 true tab
+root       26274  0.0  0.0  17556  6912 ?        S    11:54   0:00 systemd-userwork: waiting...
+dannyke+   26308  0.0  0.7 2440848 57404 ?       Sl   11:54   0:00 /usr/lib/firefox/firefox -contentproc -childID 106 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {60facbbc-aee8-4be5-a9d2-42f06b5fffe7} 8316 true tab
+dannyke+   26346  0.0  0.7 2440848 57612 ?       Sl   11:54   0:00 /usr/lib/firefox/firefox -contentproc -childID 107 -isForBrowser -prefsLen 31543 -prefMapSize 237705 -jsInitLen 234952 -parentBuildID 20240402224902 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser {c38c381b-7652-4e23-b0ff-d6550c330a5f} 8316 true tab
+root       26365  0.0  0.0  17556  6528 ?        S    11:54   0:00 systemd-userwork: waiting...
+root       27953  0.0  0.0      0     0 ?        I    11:56   0:00 [kworker/u16:9-events_power_efficient]
+root       27954  0.0  0.0      0     0 ?        I    11:56   0:00 [kworker/u16:10-events_unbound]
+root       27955  0.0  0.0      0     0 ?        I    11:56   0:00 [kworker/u16:15-events_unbound]
+root       27956  0.0  0.0      0     0 ?        I    11:56   0:00 [kworker/u16:16-events_unbound]
+root       27957  0.0  0.0      0     0 ?        I    11:56   0:00 [kworker/u16:17-events_unbound]
+dannyke+   27964  0.0  0.1  15648  9944 pts/0    Sl+  11:57   0:00 nvim script.zsh
+dannyke+   27966  3.4  0.5  47304 41448 ?        Ssl  11:57   0:02 nvim --embed script.zsh
+root       28031  0.0  0.0  17556  6912 ?        S    11:57   0:00 systemd-userwork: waiting...
+dannyke+   28085  0.0  0.0   3992  2304 ?        Ss   11:57   0:00 /usr/bin/xsel --nodetach -i -b
+dannyke+   28106  0.0  0.0  10048  5464 pts/1    S+   11:58   0:00 sh ./script.zsh
+root       28124  0.0  0.0  36392  5988 ?        S    11:58   0:00 (udev-worker)
+dannyke+   28125  0.0  0.0  13724  6572 pts/1    R+   11:58   0:00 ps aux
