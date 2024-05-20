@@ -34,9 +34,6 @@ df -h > disco/dd.txt
 ## 8- List directories
 ls -la > SO/dir_w.txt
 
-## 9- Directoriy tree
-tree -a / > so/carpetas.txt
-
 ## 10- Computer gathered
 lshw -short > board/inv.txt
 
@@ -46,38 +43,7 @@ mv procesos.txt SO
 
 ## 7- current machine
 # Keep file here because is parent directory
-hostname && who && whoami && uname -a > nombre.txt
+(hostname & who & whoami & uname -a) > nombre.txt
 
-# mkdir pc
-# cd pc
-# mkdir board
-# mkdir SO
-# mkdir NIC 
-# cd board
-# mkdir memoria
-# mkdir disco
-# mkdir procesador 
-# cd ../
-# cp hora.txt pc 
-# cp sesiones.txt pc 
-# cp dirip.txt pc 
-# cp conexion.txt pc 
-# cp mem.txt pc 
-# cp dd.txt pc 
-# cp nombre.txt pc
-# cp dir_w.txt pc
-# cp carpetas.txt pc
-# cp inv.txt pc
-# cp procesos.txt pc
-# cd pc/
-# mv hora.txt pc/board 
-# mv sesiones.txt pc/SO 
-# mv dirip.txt pc/NIC 
-# mv conexion.txt pc/NIC 
-# mv mem.txt pc/board 
-# mv dd.txt pc/board 
-# mv dir_w.txt pc/SO 
-# mv carpetas.txt pc/SO 
-# mv inv.txt pc/board 
-# mv procesos.txt pc/SO 
-# cd board
+## 9- Directoriy tree
+tree -a / > SO/carpetas.txt

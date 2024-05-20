@@ -1,8 +1,0 @@
-total 28
-drwxr-xr-x 7 dannykentala dannykentala 4096 abr 10 11:58 .
-drwxr-xr-x 3 dannykentala dannykentala 4096 abr 10 11:58 ..
-drwxr-xr-x 2 dannykentala dannykentala 4096 abr 10 11:58 board
-drwxr-xr-x 2 dannykentala dannykentala 4096 abr 10 11:58 disco
-drwxr-xr-x 2 dannykentala dannykentala 4096 abr 10 11:58 memoria
-drwxr-xr-x 2 dannykentala dannykentala 4096 abr 10 11:58 NIC
-drwxr-xr-x 2 dannykentala dannykentala 4096 abr 10 11:58 SO

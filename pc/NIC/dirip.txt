@@ -1,2 +1,0 @@
-    inet 127.0.0.1/8 scope host lo
-    inet 10.0.202.238/20 brd 10.0.207.255 scope global dynamic noprefixroute wlp2s0

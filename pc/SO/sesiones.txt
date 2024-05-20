@@ -1,3 +1,0 @@
- 11:58:07 up  3:31,  1 user,  load average: 1,59, 1,62, 0,87
-USER     TTY       LOGIN@   IDLE   JCPU   PCPU  WHAT
-dannyken tty2      03:27    8:31m  2:35   0.01s /usr/lib/sddm/sddm-helper --socket /tmp/sddm-auth-9f6e66c4-5990-4926-94fe-cdd3da399b29 --id 1 --start i3 --user dannykentala
