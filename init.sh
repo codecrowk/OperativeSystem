@@ -1,0 +1,1 @@
+sudo nvim /etc/hosts
