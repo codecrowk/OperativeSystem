@@ -1,0 +1,113 @@
+The disableGPU setting is set to undefined
+Not disabling GPU
+Main: Starting cleanup of stale files
+Main: Cleanup of stale files completed
+Main~createDefaultWorkingDir - Default working dir creation already attempted
+1716505690202 main info "Booting Postman 11.1.14, linux-6.9.1-arch1-1 on x64"
+1716505690204 main info "EventBus~initialize - Success"
+1716505690207 main info "Proxy configuration has not been setup"
+1716505690207 main info "CloudProxyManager~init - Success"
+1716505690228 main info "performShellDataMigration: Migration has already been done. Bailing out"
+1716505690236 main info "UpdateHandler~init - Success"
+1716505690239 main info "LeaderSelection: Initialized successfully"
+1716505690240 main info "VersionDependencyService: Initialized successfully"
+1716505690248 main info "LinuxAutoUpdater~Cleanup - Initial cleanup successful"
+1716505690274 main info "GPU detected VID 32902 DID 35414 ACTIVE true"
+1716505690284 main info "newAccountRegionPreferenceService~getPreferenceWithFallback - Preference not found in storage."
+1716505690284 main info "newAccountRegionPreferenceService~getToggleMenuTemplate - Using preference:","useUSRegion"
+1716505690319 main info "shellController~init: Success"
+1716505690326 main info "shellMeta~init: Success"
+1716505690326 main info "partitionMigrationService: State of V7 partition:"
+1716505690326 main info "partitionMigrationService: V7 partitions",[]
+1716505690327 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no partition with scratchpad namespace"
+1716505690327 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no transit partition which could have been used for scratchpad"
+1716505690327 main info "partitionMigrationService~init: Success"
+1716505690344 main info "partitionMigrationService~runV8PartitionsIntegrity: Two way migration~ removing the following partitions from v8",[]
+1716505690349 main info "userPartitionService~getRecentV8UserPartition: recent v8 user context partition ","9ce421b2-2004-40ab-8e22-e6938fe5e837"
+1716505690350 main info "userPartitionService~_rectifyTheActivePartitionOfApplication: Setting the active partition to ","9ce421b2-2004-40ab-8e22-e6938fe5e837"
+1716505690368 main info "userPartitionService~init: Success"
+1716505690384 main info "userPartitionService: State of v8 partition system:"
+1716505690387 main info "shell~init~getPartitionToLoad: loading active partition"
+1716505690389 main info "userPartitionService: List of partitions:",[{"partitionId":"9ce421b2-2004-40ab-8e22-e6938fe5e837","namespace":"users","userId":"32236529","teamId":"0","lastUpdated":"2024-05-18T21:10:43.470Z"},{"partitionId":"984b2aa2-3d0f-47b5-9665-81644c940d65","namespace":"scratchPad","userId":0,"teamId":0,"isDirty":false}]
+1716505690389 main info "userPartitionService: users global meta:",{}
+1716505690393 main info "Main:windowManager~newRequesterWindow: Fetch and update runtime config: us"
+1716505691841 main info "RuntimeIPCAgent~started: Success"
+1716505693520 main info "Main~getRemoteInitPath:: "
+1716505694280 main info "UpdateHandler~app-update-events - Received event",{"name":"checkForElectronVersionUpdated","namespace":"appUpdate"}
+INTERCEPTOR CONNECTIVITY: Connecting to Interceptor Bridge
+IPCClient ~ WindowHandler: New event is received { type: 'window-opened' }
+1716505694301 main info "windowManager: First requester booted successfully."
+1716505694302 main info "windowManager~restoreWindows: Restoring requester windows"
+1716505694302 main info "Main~AppEvents - Received booted event for process requester.Version 11.1.14 UI Version: 11.1.14-ui-240521-0853 Desktop Platform Version: 11.1.14"
+1716505694470 main info "Main~getRemoteInitPath:: "
+1716505694663 main info "WindowManager~closeHandler - Closed Window (id: 1 )"
+IPCClient ~ WindowHandler: New event is received { type: 'window-closed', windowId: 1 }
+1716505694685 main info "INTERCEPTOR CONNECTIVITY: Attempting to start websocket server on port 15611"
+1716505694782 main info "Quitting app"
+The disableGPU setting is set to undefined
+Not disabling GPU
+Main: Starting cleanup of stale files
+Main: Cleanup of stale files completed
+Main~createDefaultWorkingDir - Default working dir creation already attempted
+1716505744527 main info "Booting Postman 11.1.14, linux-6.9.1-arch1-1 on x64"
+1716505744529 main info "EventBus~initialize - Success"
+1716505744532 main info "Proxy configuration has not been setup"
+1716505744532 main info "CloudProxyManager~init - Success"
+1716505744554 main info "performShellDataMigration: Migration has already been done. Bailing out"
+1716505744567 main info "UpdateHandler~init - Success"
+1716505744571 main info "LeaderSelection: Initialized successfully"
+1716505744573 main info "VersionDependencyService: Initialized successfully"
+1716505744584 main info "LinuxAutoUpdater~Cleanup - Initial cleanup successful"
+1716505744616 main info "GPU detected VID 32902 DID 35414 ACTIVE true"
+1716505744619 main info "newAccountRegionPreferenceService~getPreferenceWithFallback - Preference not found in storage."
+1716505744619 main info "newAccountRegionPreferenceService~getToggleMenuTemplate - Using preference:","useUSRegion"
+1716505744645 main info "shellController~init: Success"
+1716505744656 main info "shellMeta~init: Success"
+1716505744656 main info "partitionMigrationService: State of V7 partition:"
+1716505744657 main info "partitionMigrationService: V7 partitions",[]
+1716505744657 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no partition with scratchpad namespace"
+1716505744658 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no transit partition which could have been used for scratchpad"
+1716505744658 main info "partitionMigrationService~init: Success"
+1716505744679 main info "partitionMigrationService~runV8PartitionsIntegrity: Two way migration~ removing the following partitions from v8",[]
+1716505744685 main info "userPartitionService~getRecentV8UserPartition: recent v8 user context partition ","9ce421b2-2004-40ab-8e22-e6938fe5e837"
+1716505744685 main info "userPartitionService~_rectifyTheActivePartitionOfApplication: Setting the active partition to ","9ce421b2-2004-40ab-8e22-e6938fe5e837"
+1716505744703 main info "userPartitionService~init: Success"
+1716505744720 main info "userPartitionService: State of v8 partition system:"
+1716505744726 main info "shell~init~getPartitionToLoad: loading active partition"
+1716505744728 main info "userPartitionService: List of partitions:",[{"partitionId":"9ce421b2-2004-40ab-8e22-e6938fe5e837","namespace":"users","userId":"32236529","teamId":"0","lastUpdated":"2024-05-18T21:10:43.470Z"},{"partitionId":"984b2aa2-3d0f-47b5-9665-81644c940d65","namespace":"scratchPad","userId":0,"teamId":0,"isDirty":false}]
+1716505744728 main info "userPartitionService: users global meta:",{}
+1716505744732 main info "Main:windowManager~newRequesterWindow: Fetch and update runtime config: us"
+1716505746086 main info "RuntimeIPCAgent~started: Success"
+1716505747744 main info "Main~getRemoteInitPath:: "
+1716505748577 main info "UpdateHandler~app-update-events - Received event",{"name":"checkForElectronVersionUpdated","namespace":"appUpdate"}
+INTERCEPTOR CONNECTIVITY: Connecting to Interceptor Bridge
+IPCClient ~ WindowHandler: New event is received { type: 'window-opened' }
+1716505748608 main info "windowManager: First requester booted successfully."
+1716505748608 main info "windowManager~restoreWindows: Restoring requester windows"
+1716505748609 main info "Main~AppEvents - Received booted event for process requester.Version 11.1.14 UI Version: 11.1.14-ui-240521-0853 Desktop Platform Version: 11.1.14"
+1716505748789 main info "Main~getRemoteInitPath:: "
+1716505749044 main info "INTERCEPTOR CONNECTIVITY: Attempting to start websocket server on port 15611"
+1716505749189 main info "Main~getPlatformLaunchPerfMetrics"
+1716505749321 main info "WindowManager~closeHandler - Closed Window (id: 1 )"
+IPCClient ~ WindowHandler: New event is received { type: 'window-closed', windowId: 1 }
+TypeError: Cannot read properties of undefined (reading 'send')
+    at Object.sendMessageToInterceptor (/opt/Postman/app/resources/app/services/websocketServer.js:144:10)
+    at Object.requesterWindowHandler (/opt/Postman/app/resources/app/services/websocketServer.js:389:14)
+    at EventEmitter.emit (node:events:539:35)
+    at EventEmitter.emit (node:domain:475:12)
+    at _dispatch (/opt/Postman/app/resources/app/common/_event-bus.js:256:14)
+    at EventBus._publish (/opt/Postman/app/resources/app/common/_event-bus.js:207:9)
+    at Object.closedHandler (/opt/Postman/app/resources/app/services/windowManager.js:1090:18)
+    at BrowserWindow.emit (node:events:527:28)
+    at BrowserWindow.emit (node:domain:475:12)
+1716505749327 main error "Main~handleUncaughtError - Uncaught errors",{"name":"TypeError","message":"Cannot read properties of undefined (reading 'send')","stack":"TypeError: Cannot read properties of undefined (reading 'send')\n    at Object.sendMessageToInterceptor (/opt/Postman/app/resources/app/services/websocketServer.js:144:10)\n    at Object.requesterWindowHandler (/opt/Postman/app/resources/app/services/websocketServer.js:389:14)\n    at EventEmitter.emit (node:events:539:35)\n    at EventEmitter.emit (node:domain:475:12)\n    at _dispatch (/opt/Postman/app/resources/app/common/_event-bus.js:256:14)\n    at EventBus._publish (/opt/Postman/app/resources/app/common/_event-bus.js:207:9)\n    at Object.closedHandler (/opt/Postman/app/resources/app/services/windowManager.js:1090:18)\n    at BrowserWindow.emit (node:events:527:28)\n    at BrowserWindow.emit (node:domain:475:12)"}
+Main~handleUncaughtError - Uncaught errors TypeError: Cannot read properties of undefined (reading 'send')
+    at Object.sendMessageToInterceptor (/opt/Postman/app/resources/app/services/websocketServer.js:144:10)
+    at Object.requesterWindowHandler (/opt/Postman/app/resources/app/services/websocketServer.js:389:14)
+    at EventEmitter.emit (node:events:539:35)
+    at EventEmitter.emit (node:domain:475:12)
+    at _dispatch (/opt/Postman/app/resources/app/common/_event-bus.js:256:14)
+    at EventBus._publish (/opt/Postman/app/resources/app/common/_event-bus.js:207:9)
+    at Object.closedHandler (/opt/Postman/app/resources/app/services/windowManager.js:1090:18)
+    at BrowserWindow.emit (node:events:527:28)
+    at BrowserWindow.emit (node:domain:475:12)
